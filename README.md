@@ -2,7 +2,7 @@
 
 Look up domain registration data including registrar, creation/expiry dates, name servers, and DNSSEC status, with raw WHOIS output, entirely from the browser.
 
-**Live Demo:** https://file-converter-free.com/en/network-tools/whois-lookup
+**Live Demo:** https://file-converter-free.com/en/network-tools/whois-lookup-online
 
 ## How It Works
 
